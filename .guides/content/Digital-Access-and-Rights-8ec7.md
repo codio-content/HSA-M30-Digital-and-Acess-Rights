@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All of human history is being digitized.  All of the literature, music, culture, and history has a digital version or soon will.  Companies like Google and Amazon have set out to digitize every book ever written, history projects are recording primary sources for future generations to study.
+
+While the Internet has opened access to this history of information, not all of it is free nor is it free to re-use.
+
+If you were to make a song, write a book, or create a game, would it be okay for others to use your work without paying for it?  What about someone packaging your work and selling it without giving you any of the money generated?
+
+Theft of digital works is sometimes difficult to identify.  If a book is taken from a store, an obvious theft has occurred.  The store no longer has property they used to have and the thief now has a book they previously did not.  In a digital context, a copy of a book, song, movie, or any digital media can be made and distributed.  The original owner still has their copy and so do you.  Where did the theft occur?

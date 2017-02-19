@@ -1,0 +1,46 @@
+{
+ "sections": [
+  {
+   "id": "8ec7aaf5-3415-fcea-c468-d484ef21602b",
+   "title": "Digital Access and Rights",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Access-and-Rights-8ec7.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "13bd17c3-f832-7e71-a1f4-3aea39233c29",
+   "title": "Ethical Choices",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethical-Choices-13bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7917ff2e-2129-391e-5246-a2d6f46f36cf",
+   "title": "Ethical Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethical-Quiz-7917.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
